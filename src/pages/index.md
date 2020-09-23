@@ -16,14 +16,14 @@ banner:
 sections:
 - type: icons
   template: icons
-  title: Die Schöpfer des Papenburger Landbiers - naturbelassen, tryp, ehrlich. Eben
+  title: Die Schöpfer des Papenburger Landbiers - naturbelassen, trüb, ehrlich. Eben
     typisch Papenburg.
   subtitle: Den Eersten sien Dod, den Tweeten sien Not, den Drütten sien Brod - und
     den Veerten sien Beer. Unter diesem Motto haben sich die Nachbarn Wilhelm und
     Hermann-Josef in ihr Brauhaus am Splitting zurückgezogen, um nach einer unverwechselbaren
     Rezeptur zu forschen. Das Ergebnis kann sich sehen lassen - und schmecken.
   section_id: one
-  background_style: style4
+  background_style: style1
   feature_icons:
   - title: Lorem
     icon: fa-diamond
