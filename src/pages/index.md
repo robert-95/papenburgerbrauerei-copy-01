@@ -16,9 +16,7 @@ banner:
 sections:
   - type: icons
     template: icons
-    title: |-
-      Arcu aliquet vel lobortis ata nisl
-      eget augue amet aliquet nisl cep donec
+    title: Die Schöpfer des Papenburger Landbiers
     subtitle: >-
       Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
       eleifend  
