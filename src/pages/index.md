@@ -30,10 +30,10 @@ sections:
     style: style1
   - title: Ipsum
     icon: fa-beer
-    style: style2
+    style: style3
   - title: Dolor
     icon: fa-beer
-    style: style3
+    style: style1
   component: Icons
 - type: spotlights
   template: spotlights
