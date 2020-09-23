@@ -20,11 +20,11 @@ sections:
       Die Schöpfer des Papenburger Landbiers - naturbelassen, tryp, ehrlich.
       Eben typisch Papenburg.
     subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-      ullamcorper.  
+      Den Eersten sien Dod, den Tweeten sien Not, den Drütten sien Brod - und
+      den Veerten sien Beer. Unter diesem Motto haben sich die Nachbarn Wilhelm
+      und Hermann-Josef in ihr Brauhaus am Splitting zurückgezogen, um nach
+      einer unverwechselbaren Rezeptur zu forschen. Das Ergebnis kann sich sehen
+      lassen - und schmecken.
     section_id: one
     background_style: style1
     feature_icons:
