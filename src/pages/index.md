@@ -32,7 +32,7 @@ sections:
     icon: fa-beer
     style: style2
   - title: Dolor
-    icon: fa-spa
+    icon: spa
     style: style3
   component: Icons
 - type: spotlights
