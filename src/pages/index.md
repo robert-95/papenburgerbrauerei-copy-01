@@ -16,7 +16,7 @@ banner:
 sections:
   - type: icons
     template: icons
-    title: Die Schöpfer des Papenburger Landbiers
+    title: 'Die Schöpfer des Papenburger Landbiers - '
     subtitle: >-
       Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
       eleifend  
