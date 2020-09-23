@@ -2,11 +2,7 @@
 title: Papenburger Brauerei
 banner:
   title: Papenburger Brauerei
-  subtitle: |-
-    Die Schöpfer des Papenburger Landbiers. 
-    Am Kanal Zuhause. 
-
-    Naturbelassen, trüb und ehrlich - typisch Papenburg eben.
+  subtitle: Am Kanal Zuhause.
   actions:
     - label: Activate
       url: /generic
