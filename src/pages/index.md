@@ -2,10 +2,7 @@
 title: Papenburger Brauerei
 banner:
   title: Papenburger Brauerei
-  subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
+  subtitle: Die Schöpfer des Papenburger Landbiers. Am Kanal Zuhause.
   actions:
     - label: Activate
       url: /generic
