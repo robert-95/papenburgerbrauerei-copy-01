@@ -29,7 +29,7 @@ sections:
     icon: fa-diamond
     style: style1
   - title: Ipsum
-    icon: fa-heart-o
+    icon: fa-beer
     style: style2
   - title: Dolor
     icon: fa-code
