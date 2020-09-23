@@ -41,21 +41,15 @@ sections:
   section_id: two
   background_style: style2
   spotlights:
-  - title: |-
-      Magna primis lobortis
-      sed ullamcorper
+  - title: Unser Helles Landbier
     text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
       Mauris eleifend fringilla nullam aenean mi ligula.
     home_img_path: images/pic01.jpg
-  - title: |-
-      Tortor dolore feugiat
-      elementum magna
+  - title: Unser Dunkles Landbier
     text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
       Mauris eleifend fringilla nullam aenean mi ligula.
     home_img_path: images/pic02.jpg
-  - title: |-
-      Augue eleifend aliquet
-      sed condimentum
+  - title: Unser Weizen
     text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
       Mauris eleifend fringilla nullam aenean mi ligula.
     home_img_path: images/pic03.jpg
