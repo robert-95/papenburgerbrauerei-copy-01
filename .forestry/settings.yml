@@ -2,48 +2,54 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: static/admin
-webhook_url: 'https://api.stackbit.com/project/5f6ba59e380c46001538fe7f/webhook/forestry'
+webhook_url: https://api.stackbit.com/project/5f6ba59e380c46001538fe7f/webhook/forestry
 sections:
-  - type: document
-    label: config
-    path: site-metadata.json
-    templates:
-      - config
-  - type: document
-    label: Menu Configuration
-    path: src/data/menu.yml
-    templates:
-      - menu
-  - type: document
-    label: Footer Configuration
-    path: src/data/footer.yml
-    templates:
-      - footer
-  - type: document
-    label: Home
-    path: src/pages/index.md
-    templates:
-      - home
-  - type: directory
-    path: src/pages
-    match: '**/*'
-    exclude: '{index.md,elements.md}'
-    label: Page
-    create: all
-    templates:
-      - page
-  - type: document
-    label: Elements
-    path: src/pages/elements.md
-    templates:
-      - elements
-  - type: document
-    label: Site Menus
-    path: src/data/menus.json
-    templates:
-      - site_menus
+- type: document
+  path: site-metadata.json
+  label: config
+  templates:
+  - config
+- type: document
+  path: src/data/menu.yml
+  label: Menu Configuration
+  templates:
+  - menu
+- type: document
+  path: src/data/footer.yml
+  label: Footer Configuration
+  templates:
+  - footer
+- type: document
+  path: src/pages/index.md
+  label: Home
+  templates:
+  - home
+- type: directory
+  path: src/pages
+  label: Page
+  create: all
+  match: "**/*"
+  exclude: "{index.md,elements.md}"
+  templates:
+  - page
+- type: document
+  path: src/pages/elements.md
+  label: Elements
+  templates:
+  - elements
+- type: document
+  path: src/data/menus.json
+  label: Site Menus
+  templates:
+  - site_menus
 upload_dir: static/images
-public_path: /images
+public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ':filename:'
+file_template: ":filename:"
+build:
+  preview_output_directory: public
+  install_dependencies_command: npm install
+  preview_docker_image: forestryio/node:12
+  mount_path: "/srv"
+  instant_preview_command: npm run develop
