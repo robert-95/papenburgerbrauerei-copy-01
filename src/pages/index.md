@@ -9,7 +9,7 @@ banner:
     is_scrolly: true
     is_primary: true
   bottom_link:
-    label: Learn More
+    label: Mehr erfahren
     url: "#one"
     has_arrow: true
     is_scrolly: true
