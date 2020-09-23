@@ -26,13 +26,13 @@ sections:
   background_style: style1
   feature_icons:
   - title: Lorem
-    icon: fa-beer
+    icon: fa-water
     style: style1
   - title: Ipsum
     icon: fa-beer
     style: style3
   - title: Dolor
-    icon: fa-beer
+    icon: fa-anchor
     style: style1
   component: Icons
 - type: spotlights
