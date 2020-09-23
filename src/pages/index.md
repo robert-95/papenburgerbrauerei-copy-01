@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Papenburger Brauerei
 banner:
   title: Spectral
   subtitle: |-
