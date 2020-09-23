@@ -1,7 +1,7 @@
 ---
 title: Papenburger Brauerei
 banner:
-  title: Spectral
+  title: Papenburger Brauerei
   subtitle: |-
     Blandit duis accumsan  
     arcu sagittis viverra  
