@@ -16,7 +16,9 @@ banner:
 sections:
   - type: icons
     template: icons
-    title: 'Die Schöpfer des Papenburger Landbiers - '
+    title: >-
+      Die Schöpfer des Papenburger Landbiers - naturbelassen, tryp, ehrlich.
+      Eben typisch Papenburg.
     subtitle: >-
       Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
       eleifend  
