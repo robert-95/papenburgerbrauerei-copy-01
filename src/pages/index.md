@@ -26,7 +26,7 @@ sections:
   background_style: style1
   feature_icons:
   - title: Lorem
-    icon: fa-water
+    icon: fa-anchor
     style: style1
   - title: Ipsum
     icon: fa-beer
