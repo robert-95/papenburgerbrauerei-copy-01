@@ -46,7 +46,7 @@ sections:
       gruben, an dem unsere Brauerei nun steht, hatte die Braukultur in Papenburg
       bereits Einzug gefunden. Schließlich diente das Bierbrauen zu damaligen Zeiten
       auch der Wasseraufbereitung. Heute steht unser Papenburger Landbier für Genuss
-      - knüpfen aber dennoch an die Traditionen damaliger Zeiten an. Wir brauen von
+      - knüpft aber dennoch an die Traditionen damaliger Zeiten an. Wir brauen von
       Hand und bekennen uns dabei zum deutschen Reinheitsgebot. '
     home_img_path: "/images/brauteam.jpeg"
   - title: Unser Helles Landbier
