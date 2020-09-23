@@ -41,6 +41,12 @@ sections:
   section_id: two
   background_style: style2
   spotlights:
+  - title: Unsere Brauerei am Splitting Kanal
+    text: |-
+      Das Bierbrauen in Papenburg hat eine lange Tradition. Als im 18. Jahrhundert die ersten Siedler den heutigen Splitting Kanal gruben und das anliegende Land urbar machten, hatte die Braukultur in Papenburg bereits Einzug gefunden. Schließlich diente das Bierbrauen zu damaligen Zeiten nicht nur dem Genuss, sondern auch der Wasseraufbereitung. Auch die Plaatze am Splitting, auf der das Brauhaus steht, wurde vor langer Zeit durch den Kanalbau erschlossen und ist seitdem in Familienbesitz. Das deutsche Reinheitsgebot, nach dem das Papenburger Landbier gebraut ist, hat sich ebenfalls seit der Besiedlung Papenburgs nicht verändert. Die Braukultur steckt also in gewisser Weise in dem Boden, in dem unser Bier heute zum Kellern verwahrt wird.
+
+      Das Brauhaus selber befindet sich im Hinterhaus eines in den 1930er Jahren nach altem Papenburger Stil erbautem Stadthaus. Hier werden die Rohstoffe Hopfen, Hefe und Gerste angeliefert, gelagert und verbraut. Die fertigen Biere reifen im hauseigenen Kühlkeller.
+    home_img_path: "/images/brauteam.jpeg"
   - title: Unser Helles Landbier
     text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
       Mauris eleifend fringilla nullam aenean mi ligula.
