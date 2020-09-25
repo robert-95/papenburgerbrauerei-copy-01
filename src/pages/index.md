@@ -94,18 +94,10 @@ sections:
     text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
       nullam amet leo Aenean ligula consequat consequat.
     icon: fa-code
-  - title: Mauris Imperdiet
+  - title: Erlesene Rohstoffe
     text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
       nullam amet leo Aenean ligula consequat consequat.
     icon: fa-headphones
-  - title: Aenean Primis
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
-    icon: fa-heart-o
-  - title: Tortor Ut
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
-    icon: fa-flag-o
   component: Features
 - type: cta
   template: cta
