@@ -76,7 +76,7 @@ sections:
   component: Spotlights
 - type: features
   template: features
-  title: Accumsan mus tortor nunc aliquet
+  title: Handarbeit
   subtitle: "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
     \ \nfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper."
   section_id: three
