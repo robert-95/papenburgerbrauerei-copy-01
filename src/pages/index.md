@@ -76,7 +76,7 @@ sections:
   component: Spotlights
 - type: features
   template: features
-  title: Handarbeit
+  title: Was unser Bier besonders macht
   subtitle: "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
     \ \nfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper."
   section_id: three
