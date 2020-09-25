@@ -81,6 +81,9 @@ sections:
   section_id: three
   background_style: style1
   features:
+  - title: dadasd
+    text: sdadasd
+    icon: fa-seedling
   - title: Von Genießern, für Genießer
     text: Unsere Landbiere wurden Charge für Charge mit viel Leidenschaft und Liebe
       zum Detail optimiert. Entstanden ist ein Bier für echte Genussmenschen.
