@@ -94,8 +94,8 @@ sections:
       um eine konstant hohe Qualität zu garantieren. '
     icon: fa-code
   - title: Erlesene Rohstoffe
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
+    text: 'Wir wählen all unsere Rohstoffe persönlich aus, um hohe Qualität und vollen
+      Geschmack zu garantieren. '
     icon: fa-headphones
   component: Features
 - type: cta
