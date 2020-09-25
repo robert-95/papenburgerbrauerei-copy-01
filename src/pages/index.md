@@ -92,7 +92,7 @@ sections:
   - title: Echte Handarbeit
     text: 'Unsere Brauprozesse werden vollständig von Hand begleitet und durchgeführt,
       um eine konstant hohe Qualität zu garantieren. '
-    icon: fa-hand-paper
+    icon: fa-hand
   - title: Erlesene Rohstoffe
     text: 'Wir wählen all unsere Rohstoffe persönlich aus, um hohe Qualität und vollen
       Geschmack zu garantieren. '
