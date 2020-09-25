@@ -37,7 +37,7 @@ sections:
   component: Icons
 - type: spotlights
   template: spotlights
-  title: Spotlights Section
+  title: Braurei und Biere
   section_id: two
   background_style: style4
   spotlights:
