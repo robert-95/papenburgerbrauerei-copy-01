@@ -50,13 +50,12 @@ sections:
       Hand und bekennen uns dabei zum deutschen Reinheitsgebot. '
     home_img_path: "/images/brauhaus-main.jpg"
   - title: Unser Helles Landbier
-    text: 'Aus langer Tüftelei ist Charge für Charge ein tolles, naturbelassenes Produkt
-      gereift: Unser erstes Papenburger Landbier - vollmundig, frisch und vitaminreich.
-      Gebraut direkt am Kanal aus bestem Hümmlinger Brauwasser und hochwertigen Rohstoffen.
-      Chemikalien und Farbstoffe haben in unserem Bier nichts verloren. Denn wer ehrlich
-      braut, braucht sein Produkt nicht zu verstecken. Wir wählen unsere Rohstoffe
-      sorgfältig und nachhaltig aus. Jeder Arbeitsschritt wird dabei von Hand begleitet.
-      Und das schmeckt man auch - ein Papenburger Bier für echte Genussmenschen.'
+    text: Unser Helles - vollmundig, frisch und vitaminreich. Gebraut direkt am Kanal
+      aus bestem Hümmlinger Brauwasser und hochwertigen Rohstoffen. Chemikalien und
+      Farbstoffe haben in unserem Bier nichts verloren. Denn wer ehrlich braut, braucht
+      sein Produkt nicht zu verstecken. Wir wählen unsere Rohstoffe sorgfältig und
+      nachhaltig aus. Jeder Arbeitsschritt wird dabei von Hand begleitet. Und das
+      schmeckt man auch - ein Papenburger Bier für echte Genussmenschen.
     home_img_path: "/images/about-main.jpg"
   - title: Unser Dunkles Landbier
     text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
