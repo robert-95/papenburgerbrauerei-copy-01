@@ -86,7 +86,7 @@ sections:
     text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
       nullam amet leo Aenean ligula consequat consequat.
     icon: fa-paper-plane-o
-  - title: Ac Augue Eget
+  - title: Gebraut in Papenburg
     text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
       nullam amet leo Aenean ligula consequat consequat.
     icon: fa-laptop
