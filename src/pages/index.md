@@ -90,8 +90,8 @@ sections:
       am Splitting gebraut.
     icon: fa-laptop
   - title: Echte Handarbeit
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
+    text: 'Unsere Brauprozesse werden vollständig von Hand begleitet und durchgeführt,
+      um eine konstant hohe Qualität zu garantieren. '
     icon: fa-code
   - title: Erlesene Rohstoffe
     text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
