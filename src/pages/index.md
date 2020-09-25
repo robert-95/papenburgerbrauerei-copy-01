@@ -77,15 +77,14 @@ sections:
 - type: features
   template: features
   title: Was unser Bier besonders macht
-  subtitle: Unsere Landbiere sind nicht einfach Biere. Sie sind das Produkt unserer
-    Leidenschaft und Liebe zum Detail.
+  subtitle: ''
   section_id: three
   background_style: style1
   features:
   - title: Von Genießern, für Genießer
-    text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
-      nullam amet leo Aenean ligula consequat consequat.
-    icon: fa-paper-plane-o
+    text: Unsere Landbiere wurden Charge für Charge mit viel Leidenschaft und Liebe
+      zum Detail optimiert. Entstanden ist ein Bier für echte Genussmenschen.
+    icon: fa-heart
   - title: Gebraut in Papenburg
     text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
       nullam amet leo Aenean ligula consequat consequat.
