@@ -48,7 +48,7 @@ sections:
       auch der Wasseraufbereitung. Heute steht unser Papenburger Landbier für Genuss
       - knüpft aber dennoch an die Traditionen damaliger Zeiten an. Wir brauen von
       Hand und bekennen uns dabei zum deutschen Reinheitsgebot. '
-    home_img_path: "/images/brauteam.jpeg"
+    home_img_path: "/images/brauhaus-main.jpg"
   - title: Unser Helles Landbier
     text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
       Mauris eleifend fringilla nullam aenean mi ligula.
