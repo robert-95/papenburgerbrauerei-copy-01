@@ -88,7 +88,7 @@ sections:
   - title: Gebraut in Papenburg
     text: Unsere Biere werden von uns persönlich in Papenburg in unserem Brauhaus
       am Splitting gebraut.
-    icon: fa-laptop
+    icon: fa-map-pin
   - title: Echte Handarbeit
     text: 'Unsere Brauprozesse werden vollständig von Hand begleitet und durchgeführt,
       um eine konstant hohe Qualität zu garantieren. '
