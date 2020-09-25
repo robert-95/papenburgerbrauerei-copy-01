@@ -90,7 +90,7 @@ sections:
     text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
       nullam amet leo Aenean ligula consequat consequat.
     icon: fa-laptop
-  - title: Mus Scelerisque
+  - title: Echte Handarbeit
     text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
       nullam amet leo Aenean ligula consequat consequat.
     icon: fa-code
