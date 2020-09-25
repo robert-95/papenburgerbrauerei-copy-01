@@ -81,9 +81,6 @@ sections:
   section_id: three
   background_style: style1
   features:
-  - title: dadasd
-    text: sdadasd
-    icon: fa-heart
   - title: Von Genießern, für Genießer
     text: Unsere Landbiere wurden Charge für Charge mit viel Leidenschaft und Liebe
       zum Detail optimiert. Entstanden ist ein Bier für echte Genussmenschen.
@@ -95,7 +92,7 @@ sections:
   - title: Echte Handarbeit
     text: 'Unsere Brauprozesse werden vollständig von Hand begleitet und durchgeführt,
       um eine konstant hohe Qualität zu garantieren. '
-    icon: fa-heart
+    icon: fa-hands
   - title: Erlesene Rohstoffe
     text: 'Wir wählen all unsere Rohstoffe persönlich aus, um hohe Qualität und vollen
       Geschmack zu garantieren. '
