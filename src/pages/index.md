@@ -82,7 +82,7 @@ sections:
   section_id: three
   background_style: style1
   features:
-  - title: Arcu accumsan
+  - title: Von Genießern, für Genießer
     text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
       nullam amet leo Aenean ligula consequat consequat.
     icon: fa-paper-plane-o
