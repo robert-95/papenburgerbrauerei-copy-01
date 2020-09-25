@@ -96,7 +96,7 @@ sections:
   - title: Erlesene Rohstoffe
     text: 'Wir wählen all unsere Rohstoffe persönlich aus, um hohe Qualität und vollen
       Geschmack zu garantieren. '
-    icon: fa-seedling
+    icon: fa-heart
   component: Features
 - type: cta
   template: cta
