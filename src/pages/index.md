@@ -52,7 +52,7 @@ sections:
   - title: Unser Helles Landbier
     text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
       Mauris eleifend fringilla nullam aenean mi ligula.
-    home_img_path: images/pic01.jpg
+    home_img_path: "/images/about-main.jpg"
   - title: Unser Dunkles Landbier
     text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
       Mauris eleifend fringilla nullam aenean mi ligula.
