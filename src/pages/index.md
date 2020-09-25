@@ -39,7 +39,7 @@ sections:
   template: spotlights
   title: Spotlights Section
   section_id: two
-  background_style: style2
+  background_style: style1
   spotlights:
   - title: Unsere Brauerei
     text: 'Als im 18. Jahrhundert die ersten Siedler den heutigen Splitting Kanal
@@ -80,7 +80,7 @@ sections:
   subtitle: "Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
     \ \nfringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper."
   section_id: three
-  background_style: style3
+  background_style: style1
   features:
   - title: Arcu accumsan
     text: Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt
