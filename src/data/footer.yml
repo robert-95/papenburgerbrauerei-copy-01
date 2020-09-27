@@ -1,21 +1,18 @@
+---
 social_icons:
-  - title: Twitter
-    icon: fa-twitter
-    url: '#'
-  - title: Facebook
-    icon: fa-facebook
-    url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    url: '#'
-  - title: Dribbble
-    icon: fa-dribbble
-    url: '#'
-  - title: Email
-    icon: fa-envelope-o
-    url: '#'
-copyright: '&copy; Spectral'
+- title: Facebook
+  icon: fa-facebook
+  url: "#"
+- title: Instagram
+  icon: fa-instagram
+  url: "#"
+- title: Email
+  icon: fa-envelope-o
+  url: ''
+copyright: "&copy; Papenburger Brauerei 2020"
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+- text: Impressum
+  url: https://www.stackbit.com
+  new_window: true
+- text: Datenschutz
+  new_window: true
