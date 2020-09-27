@@ -76,7 +76,7 @@ sections:
         home_img_path: /images/about-main.jpg
       - title: Unser Weizen
         text: >-
-          Unser Weizen - Das Papenburger Weizen hat einen milden, fruchtigen
+          Unser **Weizen** - Das Papenburger Weizen hat einen milden, fruchtigen
           Geschmack. Durch eine Extra-portion prickelnder Kohlensäure schmeckt
           es herrlich erfrischend. 
         home_img_path: /images/about-main.jpg
