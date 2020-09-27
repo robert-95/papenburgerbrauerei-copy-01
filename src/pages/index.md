@@ -81,6 +81,10 @@ sections:
   section_id: three
   background_style: style1
   features:
+  - title: Echte Handarbeit
+    text: Unsere Brauprozesse werden vollständig von Hand begleitet und durchgeführt,
+      um eine konstant hohe Qualität zu garantieren.
+    icon: fa-handshake-o
   - title: Von Genießern, für Genießer
     text: Unsere Landbiere wurden Charge für Charge mit viel Leidenschaft und Liebe
       zum Detail optimiert. Entstanden ist ein Bier für echte Genussmenschen.
