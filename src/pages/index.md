@@ -80,6 +80,16 @@ sections:
           Geschmack. Durch eine Extra-portion prickelnder Kohlensäure schmeckt
           es herrlich erfrischend. 
         home_img_path: /images/about-main.jpg
+      - title: lorem-ipsum
+        text: >-
+          ## Lorem ipsum
+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+          - Lorem ipsum
+
+          - dolor sit amet
     component: Spotlights
   - type: features
     template: features
