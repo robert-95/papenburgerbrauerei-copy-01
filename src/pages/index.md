@@ -26,7 +26,7 @@ sections:
       einer unverwechselbaren Rezeptur zu forschen. Das Ergebnis kann sich sehen
       lassen - und schmecken.
     section_id: one
-    background_style: style1
+    background_style: style3
     feature_icons:
       - title: Lorem
         icon: fa-anchor
