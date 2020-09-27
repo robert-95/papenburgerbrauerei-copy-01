@@ -112,7 +112,7 @@ sections:
     is_primary: false
   component: Cta
 - template: features
-  title: Verkaufsstellen
+  title: Unser Landbier im Handel
   section_id: three
   background_style: style3
   component: Features
@@ -124,7 +124,8 @@ sections:
   - title: Getränkehaus - Die Getränkekönner
     text: Gutshofstraße 30, 26871 Papenburg
     icon: fa-map-marker
-  subtitle: ''
+  subtitle: Lust auf Bier oder auf Geschenksuche? Hier kannst du das Papenburger Landbier
+    kaufen
 menus:
   main:
     title: Home
