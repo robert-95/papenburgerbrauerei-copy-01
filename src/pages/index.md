@@ -76,13 +76,9 @@ sections:
         home_img_path: /images/about-main.jpg
       - title: Unser Weizen
         text: >-
-          Unser Helles - vollmundig, frisch und vitaminreich. Gebraut direkt am
-          Kanal aus bestem Hümmlinger Brauwasser und hochwertigen, sorgfältig
-          ausgewählten Rohstoffen. Chemikalien und Farbstoffe haben in unserem
-          Bier nichts verloren. Denn wer ehrlich braut, braucht sein Produkt
-          nicht zu verstecken. Jeder Arbeitsschritt wird bei uns von Hand
-          ausgeführt. Und das schmeckt man auch - ein Papenburger Bier für echte
-          Genussmenschen.
+          Unser Weizen - Das Papenburger Weizen hat einen milden, fruchtigen
+          Geschmack. Durch eine Extra-portion prickelnder Kohlensäure schmeckt
+          es herrlich erfrischend. 
         home_img_path: /images/about-main.jpg
     component: Spotlights
   - type: features
