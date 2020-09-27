@@ -90,8 +90,8 @@ sections:
       am Splitting gebraut.
     icon: fa-map-pin
   - title: Echte Handarbeit
-    text: 'Unsere Brauprozesse werden vollständig von Hand begleitet und durchgeführt,
-      um eine konstant hohe Qualität zu garantieren. '
+    text: "    Unsere Brauprozesse werden vollständig von Hand begleitet und durchgeführt,
+      um eine konstant hohe Qualität zu garantieren."
     icon: fa-handshake-o
   - title: Erlesene Rohstoffe
     text: 'Wir wählen all unsere Rohstoffe persönlich aus, um hohe Qualität und vollen
@@ -100,18 +100,14 @@ sections:
   component: Features
 - type: cta
   template: cta
-  title: dsdsd
-  text: Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend
-    fringilla.
+  title: 'Fragen oder Feedback? '
+  text: Du hast unser Bier probiert und möchtest uns Feedback geben oder du hast Fragen
+    zu uns als Brauerei? Wir freuen uns über eine Nachricht.
   section_id: cta
   background_style: style4
   actions:
-  - label: Activate
-    url: "/generic"
-    is_scrolly: false
-    is_primary: true
-  - label: Learn More
-    url: "/generic"
+  - label: Nachricht senden
+    url: mailto:info@papenburger-brauerei.de
     is_scrolly: false
     is_primary: false
   component: Cta
