@@ -106,7 +106,7 @@ sections:
   section_id: cta
   background_style: style4
   actions:
-  - label: Nachricht senden
+  - label: Nachricht
     url: mailto:info@papenburger-brauerei.de
     is_scrolly: false
     is_primary: false
