@@ -114,7 +114,7 @@ sections:
 - template: features
   title: Unser Landbier im Handel
   section_id: three
-  background_style: style3
+  background_style: style1
   component: Features
   type: features
   features:
