@@ -45,9 +45,6 @@ sections:
   section_id: two
   background_style: style4
   spotlights:
-  - title: Unser Brauprozeß
-    text: "![](/images/verkorker2.jpg)![](/images/img_3246_art.jpg)"
-    home_img_path: "/images/manometer.jpg"
   - title: Unsere Brauerei
     text: 'Als im 18. Jahrhundert die ersten Siedler den heutigen Splitting Kanal
       gruben, an dem unsere Brauerei nun steht, hatte die Braukultur in Papenburg
@@ -74,6 +71,9 @@ sections:
       Spezialmalze zu einem Bier von goldgelber Farbe. Genießen Sie den frischen,
       sprudeligen Trinkgenuss, nicht nur an warmen Sommertagen.
     home_img_path: "/images/w1.jpg"
+  - title: Unser Brauprozeß
+    text: "![](/images/verkorker2.jpg)![](/images/img_3246_art.jpg)"
+    home_img_path: "/images/manometer.jpg"
   component: Spotlights
 - template: spotlights
   title: Unser Brauprozeß
