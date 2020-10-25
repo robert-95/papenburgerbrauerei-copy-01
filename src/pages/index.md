@@ -80,7 +80,7 @@ sections:
   type: spotlights
   spotlights:
   - title: Verkorken der gefüllten Bierflaschen
-    text: ''
+    text: BIERHERSTELLUNG
     home_img_path: "/images/verkorker2_lr.jpg"
   - title: Etikettiermaschine im Einsatz
     text: ''
