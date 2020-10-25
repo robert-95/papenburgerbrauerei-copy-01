@@ -4,14 +4,14 @@ banner:
   title: Papenburger Brauerei
   subtitle: Am Kanal Zuhause.
   actions:
-  - label: Unser Brauprozeß
-    is_scrolly: true
-    is_primary: true
-    url: "#one"
   - label: Unser Bier
     url: "#one"
     is_scrolly: true
     is_primary: true
+  - label: Unser Brauprozeß
+    is_scrolly: true
+    is_primary: true
+    url: "#one"
   bottom_link:
     label: Mehr erfahren
     url: "#one"
