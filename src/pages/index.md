@@ -77,11 +77,15 @@ sections:
   component: Spotlights
 - template: spotlights
   title: Unser Brauprozeß
-  section_id: two
+  section_id: six
   background_style: style2
   component: Spotlights
   type: spotlights
-  spotlights: []
+  spotlights:
+  - text: "![](/images/img_3246_art.jpg)![](/images/verkorker2.jpg)![](/images/banner.jpg)**der
+      Hopfen aus eigenem Anbau**"
+    home_img_path: "/images/manometer.jpg"
+    title: Der Produktionsprozeß
 - type: features
   template: features
   title: Was unser Bier besonders macht
