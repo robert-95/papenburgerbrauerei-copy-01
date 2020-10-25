@@ -69,7 +69,7 @@ sections:
       braut, braucht sein Produkt nicht zu verstecken. Jeder Arbeitsschritt wird bei
       uns von Hand ausgeführt. Und das schmeckt man auch - ein Papenburger Bier für
       echte Genussmenschen.
-    home_img_path: "/images/about-main.jpg"
+    home_img_path: "/images/w1.jpg"
   component: Spotlights
 - type: features
   template: features
