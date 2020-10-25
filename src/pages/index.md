@@ -71,9 +71,6 @@ sections:
       Spezialmalze zu einem Bier von goldgelber Farbe. Genießen Sie den frischen,
       sprudeligen Trinkgenuss, nicht nur an warmen Sommertagen.
     home_img_path: "/images/w1.jpg"
-  - title: Unser Brauprozeß
-    text: "![](/images/verkorker2.jpg)![](/images/img_3246_art.jpg)"
-    home_img_path: "/images/manometer.jpg"
   component: Spotlights
 - template: spotlights
   title: Unser Brauprozeß
