@@ -73,7 +73,7 @@ sections:
     home_img_path: "/images/w1.jpg"
   component: Spotlights
 - template: spotlights
-  title: Unser Brauprozeß
+  title: Wir wir unser Bier herstellen
   section_id: six
   background_style: style2
   component: Spotlights
