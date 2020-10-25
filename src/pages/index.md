@@ -116,10 +116,10 @@ sections:
     text: "[Hauptkanal links 35, 26871 Papenburg](https://goo.gl/maps/ne2QiUHjmV6FYhK38)"
     icon: fa-map-marker
   - title: Getränkehaus - Die Getränkekönner
-    text: Gutshofstraße 30, 26871 Papenburg
+    text: "[Gutshofstraße 30, 26871 Papenburg](https://goo.gl/maps/ZvZ5umA7vsU1wTyT7)"
     icon: fa-map-marker
   - title: Kürbishof Sprengel
-    text: "[Oldenburger Str. 97, 26871 Papenburg](https://www.google.de/maps/place/K%C3%BCrbishof+Sprengel/@53.0385867,7.3948984,14.5z/data=!4m19!1m13!4m12!1m4!2m2!1d7.4050976!2d53.0849034!4e1!1m6!1m2!1s0x47b7b04b4dfd47c5:0x64ec725708cd07ca!2ssprengel+k%C3%BCrbishof!2m2!1d7.39853!2d53.03093!3m4!1s0x47b7b04b4dfd47c5:0x64ec725708cd07ca!8m2!3d53.03093!4d7.39853)"
+    text: "[Oldenburger Str. 97, 26871 Papenburg](https://goo.gl/maps/Vv7rV1upkyrPbUKA6)"
     icon: fa-map-marker
   subtitle: Lust auf Bier oder auf Geschenksuche? Hier kannst du das Papenburger Landbier
     kaufen
