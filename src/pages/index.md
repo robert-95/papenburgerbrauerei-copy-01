@@ -79,6 +79,9 @@ sections:
   component: Spotlights
   type: spotlights
   spotlights:
+  - title: Verkorken der gefüllten Bierflaschen
+    text: ''
+    home_img_path: "/images/verkorker2_lr.jpg"
   - title: Etikettiermaschine im Einsatz
     text: ''
     home_img_path: "/images/eti1.jpg"
