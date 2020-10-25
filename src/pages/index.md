@@ -11,7 +11,7 @@ banner:
   - label: Unser Brauprozeß
     is_scrolly: true
     is_primary: true
-    url: "#three"
+    url: "#two"
   bottom_link:
     label: Mehr erfahren
     url: "#one"
