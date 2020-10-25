@@ -7,7 +7,7 @@ banner:
   - label: Unser Brauprozeß
     is_scrolly: true
     is_primary: true
-    url: ''
+    url: "#one"
   - label: Unser Bier
     url: "#one"
     is_scrolly: true
