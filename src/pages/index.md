@@ -115,14 +115,14 @@ sections:
   component: Features
   type: features
   features:
-  - title: Kürbishof Sprengel
-    text: Oldenburger Str. 97, 26871 Papenburg
-    icon: fa-map-marker
   - title: Papenburger Getränke Zentrale
     text: Hauptkanal links 35, 26871 Papenburg
     icon: fa-map-marker
   - title: Getränkehaus - Die Getränkekönner
     text: Gutshofstraße 30, 26871 Papenburg
+    icon: fa-map-marker
+  - title: Kürbishof Sprengel
+    text: Oldenburger Str. 97, 26871 Papenburg
     icon: fa-map-marker
   subtitle: Lust auf Bier oder auf Geschenksuche? Hier kannst du das Papenburger Landbier
     kaufen
