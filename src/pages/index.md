@@ -119,10 +119,7 @@ sections:
     text: Gutshofstraße 30, 26871 Papenburg
     icon: fa-map-marker
   - title: Kürbishof Sprengel
-    text: |-
-      Oldenburger Str. 97, 26871 Papenburg
-
-      [https://www.google.de/search?source=hp&ei=7XSVX-uqMuSGjLsP_4Cb6Ak&q=sprengel+k%C3%BCrbishof&oq=sprenge&gs_lcp=CgZwc3ktYWIQARgAMgIIADIFCAAQsQMyAggAMgIIADIFCAAQsQMyAggAMgIIADICCAAyAggAMgIIADoOCAAQ6gIQtAIQmgEQ5QI6CAgAELEDEIMBOggILhCxAxCDAToCCC46BAgAEANQnhBY5BtgqCtoAXAAeACAAe4BiAGoBpIBBTQuMi4xmAEAoAEBqgEHZ3dzLXdperABBg&sclient=psy-ab#](https://www.google.de/search?source=hp&ei=7XSVX-uqMuSGjLsP_4Cb6Ak&q=sprengel+k%C3%BCrbishof&oq=sprenge&gs_lcp=CgZwc3ktYWIQARgAMgIIADIFCAAQsQMyAggAMgIIADIFCAAQsQMyAggAMgIIADICCAAyAggAMgIIADoOCAAQ6gIQtAIQmgEQ5QI6CAgAELEDEIMBOggILhCxAxCDAToCCC46BAgAEANQnhBY5BtgqCtoAXAAeACAAe4BiAGoBpIBBTQuMi4xmAEAoAEBqgEHZ3dzLXdperABBg&sclient=psy-ab# "https://www.google.de/search?source=hp&ei=7XSVX-uqMuSGjLsP_4Cb6Ak&q=sprengel+k%C3%BCrbishof&oq=sprenge&gs_lcp=CgZwc3ktYWIQARgAMgIIADIFCAAQsQMyAggAMgIIADIFCAAQsQMyAggAMgIIADICCAAyAggAMgIIADoOCAAQ6gIQtAIQmgEQ5QI6CAgAELEDEIMBOggILhCxAxCDAToCCC46BAgAEANQnhBY5BtgqCtoAXAAeACAAe4BiAGoBpIBBTQuMi4xmAEAoAEBqgEHZ3dzLXdperABBg&sclient=psy-ab#")
+    text: "[Oldenburger Str. 97, 26871 Papenburg](https://www.google.de/search?source=hp&ei=7XSVX-uqMuSGjLsP_4Cb6Ak&q=sprengel+k%C3%BCrbishof&oq=sprenge&gs_lcp=CgZwc3ktYWIQARgAMgIIADIFCAAQsQMyAggAMgIIADIFCAAQsQMyAggAMgIIADICCAAyAggAMgIIADoOCAAQ6gIQtAIQmgEQ5QI6CAgAELEDEIMBOggILhCxAxCDAToCCC46BAgAEANQnhBY5BtgqCtoAXAAeACAAe4BiAGoBpIBBTQuMi4xmAEAoAEBqgEHZ3dzLXdperABBg&sclient=psy-ab#)"
     icon: fa-map-marker
   subtitle: Lust auf Bier oder auf Geschenksuche? Hier kannst du das Papenburger Landbier
     kaufen
