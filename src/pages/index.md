@@ -45,6 +45,9 @@ sections:
   section_id: two
   background_style: style4
   spotlights:
+  - title: Unser Brauprozeß
+    text: "![](/images/verkorker2.jpg)![](/images/img_3246_art.jpg)"
+    home_img_path: "/images/manometer.jpg"
   - title: Unsere Brauerei
     text: 'Als im 18. Jahrhundert die ersten Siedler den heutigen Splitting Kanal
       gruben, an dem unsere Brauerei nun steht, hatte die Braukultur in Papenburg
