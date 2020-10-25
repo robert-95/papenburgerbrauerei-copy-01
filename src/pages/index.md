@@ -82,8 +82,8 @@ sections:
   - title: Etikettiermaschine im Einsatz
     text: ''
     home_img_path: "/images/eti1.jpg"
-  - text: "#### Etikettiermaschine im Einsatz"
-    home_img_path: "/images/eti1.jpg"
+  - text: "#### "
+    home_img_path: "/images/manometer_lr.jpg"
     title: Überwachung der Flaschengärung durch Kontrolle des Flascheninnendrucks
 - type: features
   template: features
