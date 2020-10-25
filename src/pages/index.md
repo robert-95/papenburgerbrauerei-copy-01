@@ -73,7 +73,7 @@ sections:
   title: Was unser Bier besonders macht
   subtitle: ''
   section_id: three
-  background_style: style1
+  background_style: style2
   features:
   - title: Von Genießern, für Genießer
     text: Unsere Landbiere wurden Charge für Charge mit viel Leidenschaft und Liebe
