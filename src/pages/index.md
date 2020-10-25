@@ -79,9 +79,9 @@ sections:
   component: Spotlights
   type: spotlights
   spotlights:
-  - text: ''
+  - text: "#### ![](/images/manometer_lr.jpg)ff"
     home_img_path: "/images/eti1.jpg"
-    title: Der Produktionsprozeß
+    title: Überwachung der Flaschengärung durch Kontrolle des Flascheninnendrucks
 - type: features
   template: features
   title: Was unser Bier besonders macht
