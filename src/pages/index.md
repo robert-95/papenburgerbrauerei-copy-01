@@ -80,7 +80,8 @@ sections:
   type: spotlights
   spotlights:
   - title: Verkorken der gefüllten Bierflaschen
-    text: 'Die Flaschen werden sorgfältig in einem halbautomatischen Verfahren verkorkt. '
+    text: "###### Die Flaschen werden sorgfältig in einem halbautomatischen Verfahren
+      verkorkt."
     home_img_path: "/images/verkorker2_lr.jpg"
   - title: Etikettiermaschine im Einsatz
     text: |-
