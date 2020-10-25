@@ -50,12 +50,12 @@ sections:
       Hand und bekennen uns dabei zum deutschen Reinheitsgebot. '
     home_img_path: "/images/brauhaus-main.jpg"
   - title: Unser Helles Landbier
-    text: Unser Helles - vollmundig, frisch und vitaminreich. Gebraut direkt am Kanal
+    text: 'Unser Helles - vollmundig, frisch und vitaminreich. Gebraut direkt am Kanal
       aus bestem Hümmlinger Brauwasser und hochwertigen, sorgfältig ausgewählten Rohstoffen.
       Chemikalien und Farbstoffe haben in unserem Bier nichts verloren. Denn wer ehrlich
       braut, braucht sein Produkt nicht zu verstecken. Jeder Arbeitsschritt wird bei
       uns von Hand ausgeführt. Und das schmeckt man auch - ein Papenburger Bier für
-      echte Genussmenschen. hmm
+      echte Genussmenschen. '
     home_img_path: "/images/about-main.jpg"
   - title: Unser Dunkles Landbier
     text: Unser Helles - vollmundig, frisch und vitaminreich. Gebraut direkt am Kanal
