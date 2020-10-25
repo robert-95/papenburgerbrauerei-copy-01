@@ -58,12 +58,9 @@ sections:
       echte Genussmenschen. '
     home_img_path: "/images/about-main.jpg"
   - title: Unser Dunkles Landbier
-    text: Unser Helles - vollmundig, frisch und vitaminreich. Gebraut direkt am Kanal
-      aus bestem Hümmlinger Brauwasser und hochwertigen, sorgfältig ausgewählten Rohstoffen.
-      Chemikalien und Farbstoffe haben in unserem Bier nichts verloren. Denn wer ehrlich
-      braut, braucht sein Produkt nicht zu verstecken. Jeder Arbeitsschritt wird bei
-      uns von Hand ausgeführt. Und das schmeckt man auch - ein Papenburger Bier für
-      echte Genussmenschen. Super lecker.
+    text: Unser Dunkles - ein handwerklich gebrautes, malzaromatisches mildes Vollbier.
+      Dieses Bier hat einen cremigen Schaum und riecht nach Karamell mit deutlicher
+      Hopfennote.
     home_img_path: "/images/about-main.jpg"
   - title: Unser Weizen
     text: Unser Helles - vollmundig, frisch und vitaminreich. Gebraut direkt am Kanal
