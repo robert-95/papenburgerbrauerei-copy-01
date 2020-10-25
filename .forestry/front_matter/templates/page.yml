@@ -39,3 +39,4 @@ fields:
     required: true
 pages:
 - src/pages/generic.md
+- src/pages/unser-brauprozess.md
