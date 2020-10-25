@@ -83,13 +83,11 @@ sections:
     text: Die Flaschen werden sorgfältig in einem halbautomatischen Verfahren verkorkt.
     home_img_path: "/images/verkorker2_lr.jpg"
   - title: Etikettiermaschine im Einsatz
-    text: |-
-      Die Etiketten werden von einem Trägerpapier auf die Flasche übertragen und
-
+    text: Die Etiketten werden von einem Trägerpapier auf die Flasche übertragen und
       angerollt. Anschließend wird das Mindesthaltbarkeitsdatum aufgebracht.
     home_img_path: "/images/eti1.jpg"
-  - text: "#### Wenn der Flascheninnendruck nicht weiter ansteigt ist die Flaschengärung
-      abgeschlossen, und die Flaschen können in den Kühlraum umgelagert werden."
+  - text: Wenn der Flascheninnendruck nicht weiter ansteigt ist die Flaschengärung
+      abgeschlossen, und die Flaschen können in den Kühlraum umgelagert werden.
     home_img_path: "/images/manometer_lr.jpg"
     title: Überwachung der Flaschengärung durch Kontrolle des Flascheninnendrucks
 - type: features
