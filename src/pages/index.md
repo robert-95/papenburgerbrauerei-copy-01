@@ -117,7 +117,7 @@ sections:
   features:
   - title: Kürbishof Sprengel
     text: ''
-    icon: ''
+    icon: fa-map-marker
   - title: Papenburger Getränke Zentrale
     text: Hauptkanal links 35, 26871 Papenburg
     icon: fa-map-marker
