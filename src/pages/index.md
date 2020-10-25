@@ -127,6 +127,13 @@ sections:
     icon: fa-map-marker
   subtitle: Lust auf Bier oder auf Geschenksuche? Hier kannst du das Papenburger Landbier
     kaufen
+- template: spotlights
+  title: Unser Brauprozeß
+  section_id: two
+  background_style: style2
+  component: Spotlights
+  type: spotlights
+  spotlights: []
 menus:
   main:
     title: Home
