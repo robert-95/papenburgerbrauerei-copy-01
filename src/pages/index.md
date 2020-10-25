@@ -63,7 +63,7 @@ sections:
       Hopfennote.
     home_img_path: "/images/about-main.jpg"
   - title: Unser Weizen
-    text: Unser Weizen -bei diesem fruchtigen Hefeweizen kombinieren wir verschiedene
+    text: Unser Weizen - bei diesem fruchtigen Hefeweizen kombinieren wir verschiedene
       Spezialmalze zu einer goldgelben Farbe. Der frische, sprudelige Trinkgenuss,
       nicht nur an warmen Sommertagen.
     home_img_path: "/images/w1.jpg"
