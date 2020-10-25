@@ -83,7 +83,10 @@ sections:
     text: 'Die Flaschen werden sorgfältig in einem halbautomatischen Verfahren verkorkt. '
     home_img_path: "/images/verkorker2_lr.jpg"
   - title: Etikettiermaschine im Einsatz
-    text: ''
+    text: |-
+      Die Etiketten werden von einem Trägerpapier auf die Flasche übertragen und
+
+      angerollt. Anschließend wird das Mindesthaltbarkeitsdatum aufgebracht.
     home_img_path: "/images/eti1.jpg"
   - text: "#### "
     home_img_path: "/images/manometer_lr.jpg"
