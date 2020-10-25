@@ -5,7 +5,7 @@ banner:
   subtitle: Am Kanal Zuhause.
   actions:
   - label: Unsere Biersorten
-    url: "#one"
+    url: "#two"
     is_scrolly: true
     is_primary: true
   - label: Unser Brauprozeß
