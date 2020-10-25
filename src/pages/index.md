@@ -88,7 +88,8 @@ sections:
 
       angerollt. Anschließend wird das Mindesthaltbarkeitsdatum aufgebracht.
     home_img_path: "/images/eti1.jpg"
-  - text: "#### "
+  - text: "#### Wenn der Flascheninnendruck nicht weiter ansteigt ist die Flaschengärung
+      abgeschlossen, und die Flaschen können in den Kühlraum umgelagert werden."
     home_img_path: "/images/manometer_lr.jpg"
     title: Überwachung der Flaschengärung durch Kontrolle des Flascheninnendrucks
 - type: features
