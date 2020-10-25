@@ -79,7 +79,7 @@ sections:
   component: Spotlights
   type: spotlights
   spotlights:
-  - text: "#### ![](/images/manometer_lr.jpg)ff"
+  - text: "#### Etikettiermaschine im Einsatz"
     home_img_path: "/images/eti1.jpg"
     title: Überwachung der Flaschengärung durch Kontrolle des Flascheninnendrucks
 - type: features
