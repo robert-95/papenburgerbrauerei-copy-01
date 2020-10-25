@@ -61,7 +61,7 @@ sections:
     text: Unser Dunkles - ein handwerklich gebrautes, malzaromatisches mildes Vollbier.
       Dieses Bier hat einen cremigen Schaum und riecht nach Karamell mit deutlicher
       Hopfennote.
-    home_img_path: "/images/about-main.jpg"
+    home_img_path: "/images/d1.jpg"
   - title: Unser Weizen
     text: Unser Weizen - bei diesem fruchtigen Hefeweizen kombinieren wir verschiedene
       Spezialmalze zu einer goldgelben Farbe. Der frische, sprudelige Trinkgenuss,
