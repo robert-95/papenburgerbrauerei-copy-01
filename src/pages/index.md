@@ -113,7 +113,7 @@ sections:
   type: features
   features:
   - title: Papenburger Getränke Zentrale
-    text: Hauptkanal links 35, 26871 Papenburg
+    text: "[Hauptkanal links 35, 26871 Papenburg](https://goo.gl/maps/ne2QiUHjmV6FYhK38)"
     icon: fa-map-marker
   - title: Getränkehaus - Die Getränkekönner
     text: Gutshofstraße 30, 26871 Papenburg
